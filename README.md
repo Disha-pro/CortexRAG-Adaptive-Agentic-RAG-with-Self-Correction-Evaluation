@@ -167,7 +167,7 @@ streamlit run cortex_rag_app.py
 Then open your browser at:
 
 ```
-http://localhost:8501
+https://cortexrag-adaptive-agentic-rag-with-self-correction-evaluation.streamlit.app/
 ```
 
 ---
